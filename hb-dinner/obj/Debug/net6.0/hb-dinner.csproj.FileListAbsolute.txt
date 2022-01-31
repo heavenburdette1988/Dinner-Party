@@ -1,0 +1,15 @@
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\bin\Debug\net6.0\hb-dinner.exe
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\bin\Debug\net6.0\hb-dinner.deps.json
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\bin\Debug\net6.0\hb-dinner.runtimeconfig.json
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\bin\Debug\net6.0\hb-dinner.dll
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\bin\Debug\net6.0\ref\hb-dinner.dll
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\bin\Debug\net6.0\hb-dinner.pdb
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\obj\Debug\net6.0\hb-dinner.csproj.AssemblyReference.cache
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\obj\Debug\net6.0\hb-dinner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\obj\Debug\net6.0\hb-dinner.AssemblyInfoInputs.cache
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\obj\Debug\net6.0\hb-dinner.AssemblyInfo.cs
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\obj\Debug\net6.0\hb-dinner.csproj.CoreCompileInputs.cache
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\obj\Debug\net6.0\hb-dinner.dll
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\obj\Debug\net6.0\ref\hb-dinner.dll
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\obj\Debug\net6.0\hb-dinner.pdb
+C:\Users\matth\workspace\NewForce-C5-BackEnd\book-1\csharp\translate-csharp-js\dinner-party\hb-dinner\obj\Debug\net6.0\hb-dinner.genruntimeconfig.cache
